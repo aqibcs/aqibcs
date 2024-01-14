@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aqib
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Go and SQL
+- 🌱 I’m currently learning Go | Python and SQL
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me csaqibshah@gmail.com
 
